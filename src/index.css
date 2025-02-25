@@ -12,7 +12,7 @@ body {
   color: white;
   width: 100dvw;
   overflow-x: hidden;
-  overflow-y: auto;
+  overflow-y: auto !important;
   height: auto;
   background: #000;
   border-color: #3b3b3b;
