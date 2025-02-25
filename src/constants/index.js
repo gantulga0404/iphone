@@ -15,9 +15,9 @@ export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
-      "Enter A17 Pro.",
-      "Game‑changing chip.",
-      "Groundbreaking performance.",
+      "Gantulga.",
+      "Gantulga.",
+      "Gantulga.",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
