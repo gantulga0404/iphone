@@ -8,17 +8,22 @@
   box-sizing: border-box;
 }
 
+main {
+  touch-action: pan-y;
+  overflow-y: auto;
+}
+
 body {
   color: white;
   width: 100dvw;
   overflow-x: hidden;
-  overflow-y: auto !important;
   height: auto;
   background: #000;
   border-color: #3b3b3b;
   user-select: none;
-  -webkit-overflow-scrolling: touch;
 }
+
+
 
 canvas {
   touch-action: none;
